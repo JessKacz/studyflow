@@ -88,5 +88,5 @@ Veja o guia completo em [docs/setup.md](docs/setup.md).
 
 Projeto desenvolvido por **Jessica Kaczmarkiewicz** como parte de sua transição de carreira para QA, documentando na prática o aprendizado em automação, infraestrutura e integração de sistemas.
 
-- 🔗 [LinkedIn](https://linkedin.com/in/jessicakaczmarkiewicz)
+- 🔗 [LinkedIn](https://linkedin.com/in/jessica-kaczmarkiewicz)
 - 🤖 [Telegram Bot](https://t.me/JessicaKacz_StudyFlow_bot)
